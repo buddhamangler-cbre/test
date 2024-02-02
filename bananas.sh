@@ -2,7 +2,7 @@
 
 set -e
 
-if [[ -z "${SONAR_TOKEN}" ]]; then
+if [[ -z "${SONAR_TOKEN}" ]]; thenzzzz
   echo "============================ WARNING ============================"
   echo "Running this GitHub Action without SONAR_TOKEN is not recommended"
   echo "============================ WARNING ============================"
